@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Yasmine%20Sbei/Documents/NetBeansProjects/bibi/src/gerer/Compte.java</file>
+            <file>file:/C:/Users/Yasmine%20Sbei/Documents/NetBeansProjects/bibi/src/gerer/Exemplaire.java</file>
+            <file>file:/C:/Users/Yasmine%20Sbei/Documents/NetBeansProjects/bibi/src/gerer/GestionLivre.java</file>
+            <file>file:/C:/Users/Yasmine%20Sbei/Documents/NetBeansProjects/bibi/src/bibi/login.java</file>
+            <file>file:/C:/Users/Yasmine%20Sbei/Documents/NetBeansProjects/bibi/src/gerer/Livre.java</file>
+            <file>file:/C:/Users/Yasmine%20Sbei/Documents/NetBeansProjects/bibi/src/bibi/dashbib.java</file>
+            <file>file:/C:/Users/Yasmine%20Sbei/Documents/NetBeansProjects/bibi/src/Afficherinformations/affichageinterface.java</file>
+            <file>file:/C:/Users/Yasmine%20Sbei/Documents/NetBeansProjects/bibi/src/gerer/Bibliothecaire.java</file>
+            <file>file:/C:/Users/Yasmine%20Sbei/Documents/NetBeansProjects/bibi/src/gerer/GestionAdh.java</file>
+            <file>file:/C:/Users/Yasmine%20Sbei/Documents/NetBeansProjects/bibi/src/Afficherinformations/OuvragesExi.java</file>
+            <file>file:/C:/Users/Yasmine%20Sbei/Documents/NetBeansProjects/bibi/src/gerer/Adherent.java</file>
+            <file>file:/C:/Users/Yasmine%20Sbei/Documents/NetBeansProjects/bibi/src/Afficherinformations/OuvragesEnPossession.java</file>
+            <file>file:/C:/Users/Yasmine%20Sbei/Documents/NetBeansProjects/bibi/src/gerer/GestionCompte.java</file>
+            <file>file:/C:/Users/Yasmine%20Sbei/Documents/NetBeansProjects/bibi/src/Afficherinformations/OvragesDisponibles.java</file>
+            <file>file:/C:/Users/Yasmine%20Sbei/Documents/NetBeansProjects/bibi/src/Afficherinformations/TesterAffichage.java</file>
+            <file>file:/C:/Users/Yasmine%20Sbei/Documents/NetBeansProjects/bibi/src/Afficherinformations/OuvrageLePlusDemandé.java</file>
+            <file>file:/C:/Users/Yasmine%20Sbei/Documents/NetBeansProjects/bibi/src/Afficherinformations/OuvragesPrêtés.java</file>
+            <file>file:/C:/Users/Yasmine%20Sbei/Documents/NetBeansProjects/bibi/src/bibi/dash.java</file>
+            <file>file:/C:/Users/Yasmine%20Sbei/Documents/NetBeansProjects/bibi/src/bibi/main.java</file>
+            <file>file:/C:/Users/Yasmine%20Sbei/Documents/NetBeansProjects/bibi/src/bibi/biblogin.java</file>
+            <file>file:/C:/Users/Yasmine%20Sbei/Documents/NetBeansProjects/bibi/src/gerer/Auteur.java</file>
+        </group>
+    </open-files>
+</project-private>
